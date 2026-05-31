@@ -12,7 +12,7 @@ This repository contains projects completed during the 4-Week DecodeLabs Artific
 * Input sanitization
 * Fallback response handling
 
-Week 2 - Data Classification Using AI
+### Week 2 - Data Classification Using AI
 
 * Algorithm: K-Nearest Neighbors (KNN)
 * Dataset: Iris Dataset
