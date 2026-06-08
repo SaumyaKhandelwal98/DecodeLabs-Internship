@@ -2,11 +2,14 @@
 
 This repository contains projects completed during the 4-Week DecodeLabs Artificial Intelligence Internship Program. The projects focus on Artificial Intelligence fundamentals, Machine Learning, Python programming, and practical AI implementations.
 
+---
+
 ## Projects
 
 ### Week 1 - Rule-Based AI Chatbot
 
 **Description:**
+
 A Python-based chatbot that responds to predefined user queries using a dictionary-based response system.
 
 **Features:**
@@ -28,6 +31,7 @@ A Python-based chatbot that responds to predefined user queries using a dictiona
 ### Week 2 - Data Classification Using AI
 
 **Description:**
+
 A Machine Learning classification project using the Iris Dataset and the K-Nearest Neighbors (KNN) algorithm to predict flower species based on input features.
 
 **Technologies Used:**
@@ -61,9 +65,40 @@ A Machine Learning classification project using the Iris Dataset and the K-Neare
 
 ---
 
-### Week 3
+### Week 3 - AI Career Recommendation System
 
-Project will be added upon completion.
+**Description:**
+
+A Python-based recommendation system that suggests suitable career paths based on user-entered technical skills. The system compares user skills with predefined skill requirements and recommends the most relevant technology roles.
+
+**Technologies Used:**
+
+* Python
+* Dictionaries
+* Lists
+* String Processing
+* Recommendation Logic
+
+**Workflow:**
+
+1. Accept user skills as input
+2. Process and clean entered skills
+3. Compare skills with predefined role requirements
+4. Calculate matching skill counts
+5. Sort recommendations based on relevance
+6. Display recommended career paths
+
+**Results:**
+
+* Interactive skill-based recommendation system
+* Multiple career path suggestions
+* Sorted recommendations based on matching skills
+* User-friendly command-line interface
+
+**Files:**
+
+* `recommendation.py`
+* `Week3_Output.png`
 
 ---
 
@@ -71,13 +106,19 @@ Project will be added upon completion.
 
 Project will be added upon completion.
 
+---
+
 ## Technologies Used
 
 * Python
 * Machine Learning
 * Scikit-learn
 * Artificial Intelligence Fundamentals
+* Recommendation Systems
+* Data Classification
 * Git & GitHub
+
+---
 
 ## Author
 
